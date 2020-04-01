@@ -1,0 +1,6 @@
+framework module Pods_Spring_SpringUITests {
+  umbrella header "Pods-Spring-SpringUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
